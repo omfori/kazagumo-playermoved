@@ -1,6 +1,6 @@
 {
     "name": "kazagumo-playermoved",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A modified version of the PlayersMoved plugin, built with support for Oceanic.JS",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
